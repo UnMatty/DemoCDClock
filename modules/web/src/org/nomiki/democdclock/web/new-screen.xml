@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        xmlns:app="http://schemas.company.com/agd/0.1/ui-component.xsd"
+        caption="msg://caption"
+        messagesPack="org.nomiki.democdclock.web">
+    <layout>
+        <app:countdownClock id="appCountdownClock"/>
+    </layout>
+</window>
